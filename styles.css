@@ -32,3 +32,11 @@ padding: 16px;
 div.gallery img{
     height: 400px;
 }
+
+div.box-border-model{
+    background-color: rgb(89, 89, 89);
+    margin: 80px;
+    padding: 20px;
+
+}
+
